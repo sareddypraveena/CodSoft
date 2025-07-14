@@ -19,9 +19,9 @@ A guessing game where the player must find a number between 1 and 100 within a l
 - Round 1:
 ![Round 1](image1.png)
 - Round 2 & 3:
-![Round 2 & 3](image2.png)
+![Round 2 & 3](image3.png)
 - Round 4:
-![Round 4](image3.png)
+![Round 4](image2.png)
 ### 🚀 How to Run:
 ```bash
 javac NumberGuessGame.java
