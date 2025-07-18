@@ -83,3 +83,53 @@ Concepts: Arrays, Loops, Conditionals, Scanner (user input)
 ## output:
 
 ![Round 1](task2.png)
+
+
+
+## task3: ATM Interface – Java Console App
+
+🎯 Goal
+Simulate a basic ATM system in Java that allows a user to:
+
+✅ Check balance
+
+✅ Deposit money
+
+✅ Withdraw money
+
+📌 Features:
+Menu-Driven Interface
+
+Text-based options for user to choose actions.
+
+BankAccount Class
+
+Holds and updates user's balance.
+
+Methods: deposit(), withdraw(), checkBalance()
+
+ATM Class
+
+Handles user input and displays options.
+
+Validates transactions and prevents over-withdrawals.
+
+Input Validation
+
+Prevents invalid amounts (e.g., negative values or overdrawing).
+
+Clear Output Messages
+
+Confirms deposits, withdrawals, and shows current balance.
+
+🛠️ Technologies Used
+Java (Core)
+
+Concepts: Classes, Methods, Scanner, Conditionals, Loops
+
+
+## output:
+
+![Round 1](task3.png)
+
+
