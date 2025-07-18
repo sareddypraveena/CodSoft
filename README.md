@@ -80,6 +80,6 @@ Language: Java
 
 Concepts: Arrays, Loops, Conditionals, Scanner (user input)
 
-output:
+## output:
 
-![Round 1](Screenshot 2025-07-18 100524.png)
+![Round 1](task2.png)
